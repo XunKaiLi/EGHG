@@ -1,1 +1,1 @@
-# EGHGCN
+# EHGCN
